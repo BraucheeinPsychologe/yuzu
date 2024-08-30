@@ -12,3 +12,9 @@ Direct-download [prod.keys](/prod.keys)
 <br>
 Direct-download [title.keys](/title.keys)
 # YUZU's Website!
+
+
+# sources
+I downloaded YUZU itself and the YUZU Website from Internet Archiev.
+Prodkeys and Titelkeys: https://prodkeys.net/dm/
+Firmware: Actually idk
