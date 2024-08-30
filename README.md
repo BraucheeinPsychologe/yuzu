@@ -11,12 +11,10 @@ yuzu, Prod.keys, Titel.keys, Firmware.zip and your Games!
 <br>
 [Direct-download title.keys](/title.keys)
 # yuzu's Website!
-<!doctype=html>
 <html>
   <head>
     <styles src="">
   </head>
   <body>
-    <iframe href="">
   </body>
 </html>
