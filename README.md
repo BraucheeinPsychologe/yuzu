@@ -1,8 +1,8 @@
 # yuzu
 yuzu files and Archiev!
 
-<h2>You need:</h2>
-yuzu, Prod.keys, Titel.keys, Firmware.zip and your Games!
+<h2>To Run yuzu you need:</h2>
+yuzu.(exe or tar.gz or apk  based on your Platform), Prod.keys, Titel.keys, Firmware.zip and your Games!
 
 # Downloads
 G-Drive [Firmware, APK](https://drive.google.com/file/d/1Q3tNw4pu2C3q5r0fFb7YThcBykJ9rIqd/view?usp=drivesdk)
