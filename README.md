@@ -14,7 +14,7 @@ Direct-download [title.keys](/title.keys)
 # YUZU's Website!
 
 
-# sources
+# Sources
 I downloaded YUZU itself and the YUZU Website from Internet Archiev.
 Prodkeys and Titelkeys: https://prodkeys.net/dm/
 Firmware: Actually idk
