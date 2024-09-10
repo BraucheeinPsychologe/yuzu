@@ -12,6 +12,7 @@ Direct-download [prod.keys](/prod.keys)
 <br>
 Direct-download [title.keys](/title.keys)
 # YUZU's Website!
+[Click me for Rederict](https://pls.rf.gd/)
 
 
 # Sources
